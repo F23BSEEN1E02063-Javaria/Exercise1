@@ -1,5 +1,3 @@
-gram_1.py
-@@ -0,0 +1,7 @@
 #Calculate the multiplication and sum of two numbers
 number1 = 20
 number2 = 30
